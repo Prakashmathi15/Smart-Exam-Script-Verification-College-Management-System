@@ -78,7 +78,8 @@ npm install
 # Create a .env file and add your MONGO_URI and JWT_SECRET
 npm start
 ```
-## 2. Setup Frontend (Client)Bash
+## 2. Setup Frontend (Client)Bash      
+
 ```python
 cd client
 npm install
@@ -86,7 +87,7 @@ npm start
 ```
 The web portal will open at
 ```http://localhost:3000```
-## 3. Setup AI EngineBashcd ai_engine
+## 3. Setup AI EngineBashcd ai_engine           
 ```python
 pip install torch transformers opencv-python pdf2image scikit-learn
 python main.py
@@ -122,7 +123,7 @@ For secure password hashing and stateless session management.
 
 ### 🤝 Contributors - TEAM 164: 
 THANJIYAPPAN K - Full Stack Dev & AI Integration                 
-PRAKASH M - Frontend & UI/UX
+PRAKASH M - Frontend & UI/UX                   
 SANJAY K - Backend & Database
 
 ### 📝 License   
