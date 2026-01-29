@@ -120,7 +120,7 @@ Non-linear, edge-preserving, and noise-reducing smoothing filter for images.
 ### Bcrypt & JWT:  
 For secure password hashing and stateless session management.
 
-## 🤝 Contributors - TEAM 164: 
+### 🤝 Contributors - TEAM 164: 
 THANJIYAPPAN K - Full Stack Dev & AI Integration                 
 PRAKASH M - Frontend & UI/UX
 SANJAY K - Backend & Database
