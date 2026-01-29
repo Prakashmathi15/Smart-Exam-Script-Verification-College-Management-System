@@ -63,33 +63,35 @@ Unlike traditional ERPs, this system integrates a robust **MERN Stack Web Portal
     └── ocr_model.py       # TrOCR inference logic
 
 ```
-# ⚡ Installation & Setup        
+## ⚡ Installation & Setup        
 Prerequisites      
 ```python
 Node.js & npm installed
 Python 3.9+installed
 MongoDB running locally or via Atlas
 ```
-# 1. Setup Backend (Server)Bash
-```
+## 1. Setup Backend (Server)Bash
+
+```python
 cd server
 npm install
 # Create a .env file and add your MONGO_URI and JWT_SECRET
 npm start
 ```
-# 2. Setup Frontend (Client)Bash
+## 2. Setup Frontend (Client)Bash
 ```python
 cd client
 npm install
 npm start
 ```
-# The web portal will open at http://localhost:3000
-# 3. Setup AI EngineBashcd ai_engine
+The web portal will open at
+```http://localhost:3000```
+## 3. Setup AI EngineBashcd ai_engine
 ```python
 pip install torch transformers opencv-python pdf2image scikit-learn
 python main.py
 ```
-# 📸 Screenshots
+## 📸 Screenshots
 
 Admin Dashboard:
 <img width="1919" height="951" alt="Screenshot 2026-01-29 103525" src="https://github.com/user-attachments/assets/0a83b75c-a602-4e03-9278-db81cbf68307" />
@@ -107,21 +109,21 @@ Plagiarism Report:
 ![2](https://github.com/user-attachments/assets/e6367d41-019d-451e-9530-ff859d21f987)
 
 
-# 🧪 Algorithms Used    
+## 🧪 Algorithms Used    
 
-# TrOCR (Transformer OCR):
+### TrOCR (Transformer OCR):
 Uses a Vision Transformer (ViT) encoder and RoBERTa decoder to transcribe handwritten text.
-# SequenceMatcher: 
+### SequenceMatcher: 
 Recursive longest common subsequence algorithm to calculate similarity ratios (0.0 - 1.0).
-# Bilateral Filtering:
+### Bilateral Filtering:
 Non-linear, edge-preserving, and noise-reducing smoothing filter for images. 
-# Bcrypt & JWT:  
+### Bcrypt & JWT:  
 For secure password hashing and stateless session management.
 
-# 🤝 Contributors - TEAM 164: 
+## 🤝 Contributors - TEAM 164: 
 THANJIYAPPAN K - Full Stack Dev & AI Integration                 
 PRAKASH M - Frontend & UI/UX
 SANJAY K - Backend & Database
 
-# 📝 License   
+### 📝 License   
 This project is licensed under the MIT License - see the LICENSE file for details.
