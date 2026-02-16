@@ -92,6 +92,34 @@ The web portal will open at
 pip install torch transformers opencv-python pdf2image scikit-learn
 python main.py
 ```
+
+
+## How to Run
+## Backend (Terminal 1):
+
+bash
+```python
+cd "c:/Users/SEC/Downloads/main project/project 2/code/codes/backend"
+python run.py
+```
+
+The server runs on 
+```python
+http://localhost:5000.
+```
+## Frontend (Terminal 2):
+
+bash
+```python
+cd "c:/Users/SEC/Downloads/main project/project 2/code/codes/frontend"
+npm run dev
+```
+Access the app at           
+```python
+http://localhost:5173.
+``` 
+
+
 ## 📸 Screenshots
 
 Admin Dashboard:
