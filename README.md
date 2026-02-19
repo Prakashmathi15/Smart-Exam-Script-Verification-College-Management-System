@@ -156,3 +156,17 @@ SANJAY K - Backend & Database
 
 ### 📝 License   
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+### credentials
+#### Admin:  
+prakash1@gmail.com             
+123             
+### Parent:
+thanji1@gmail.com              
+123   
+### Teacher
+ranga@gmail.com       
+123   
+### Student
+thanji@gmail.com         
+123         
