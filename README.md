@@ -122,7 +122,7 @@ http://localhost:5173.
 
 ## 📸 Screenshots
 
-Admin Dashboard:
+Admin Dashboard:                     
 <img width="493" height="246" alt="image" src="https://github.com/user-attachments/assets/da3362da-7795-49af-9703-1893cb408e59" />
 
 
