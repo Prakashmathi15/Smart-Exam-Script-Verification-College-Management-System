@@ -123,13 +123,16 @@ http://localhost:5173.
 ## 📸 Screenshots
 
 Admin Dashboard:
-<img width="1919" height="951" alt="Screenshot 2026-01-29 103525" src="https://github.com/user-attachments/assets/0a83b75c-a602-4e03-9278-db81cbf68307" />
+<img width="493" height="246" alt="image" src="https://github.com/user-attachments/assets/da3362da-7795-49af-9703-1893cb408e59" />
+
 
 Parent Portal: 
-<img width="1919" height="957" alt="Screenshot 2026-01-29 103738" src="https://github.com/user-attachments/assets/b0a699f7-cc5a-4202-98e2-93f010d91050" />
+<img width="493" height="244" alt="image" src="https://github.com/user-attachments/assets/d95a211e-b475-4346-9488-d4cd31425a33" />
+
 
 Student Portal:
-<img width="1919" height="946" alt="Screenshot 2026-01-29 103937" src="https://github.com/user-attachments/assets/8f59af67-a8c7-4fb1-aec1-70a631d720cd" />
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/9a39d11f-ccd0-4811-8bf2-73dd51c08527" />
+
 
 Plagiarism Report:
 
@@ -164,9 +167,9 @@ prakash1@gmail.com
 ### Parent:
 thanji1@gmail.com              
 123   
-### Teacher
+### Teacher:
 ranga@gmail.com       
 123   
-### Student
+### Student:
 thanji@gmail.com         
 123         
