@@ -126,12 +126,12 @@ Admin Dashboard:
 <img width="493" height="246" alt="image" src="https://github.com/user-attachments/assets/da3362da-7795-49af-9703-1893cb408e59" />
 
 
-Parent Portal: 
+Parent Portal:             
 <img width="493" height="244" alt="image" src="https://github.com/user-attachments/assets/d95a211e-b475-4346-9488-d4cd31425a33" />
 
 
-Student Portal:
-<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/9a39d11f-ccd0-4811-8bf2-73dd51c08527" />
+Student Portal:                       
+<img width="493" height="244" alt="image" src="https://github.com/user-attachments/assets/9a39d11f-ccd0-4811-8bf2-73dd51c08527" />
 
 
 Plagiarism Report:
